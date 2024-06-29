@@ -15,7 +15,58 @@
   <a href="https://medium.com/@muiz6" target="_blank">
     <img src=https://img.shields.io/badge/medium-ffffff?&style=for-the-badge&logo=medium&logoColor=black alt=medium style="margin-bottom: 5px;" />
   </a>
+  <a href="https://stackoverflow.com/users/11973595/muiz6" target="_blank">
+    <img src=https://img.shields.io/badge/stack%20overflow-e7700d?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=medium style="margin-bottom: 5px;" />
+  </a>
 </div>
+
+## Technologies I Use
+
+<table>
+  <tr>
+    <th>Languages</th>
+    <td>
+      <ul><li>Python</li></ul>
+    </td>
+    <td>
+      <ul><li>JavaScript</li></ul>
+    </td>
+    <td>
+      <ul><li>TypeScript</li></ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <th>Frameworks</th>
+    <td>
+      <ul><li>FastAPI</li></ul>
+    </td>
+    <td>
+      <ul><li>Strawberry GraphQL</li></ul>
+    </td>
+    <td>
+      <ul><li>Express.js</li></ul>
+    </td>
+  </tr>
+
+  <tr>
+    <th>Databases</th>
+    <td>
+      <ul><li>MongoDB</li></ul>
+    </td>
+    <td>
+      <ul><li>PostgreSQL</li></ul>
+    </td>
+    <td><ul><li>Firestore</li></ul></td>
+  </tr>
+
+  <tr>
+    <th>DevOps</th>
+    <td><ul><li>Linux</li></ul></td>
+    <td><ul><li>NGINX</li></ul></td>
+    <td><ul><li>Supervisor</li></ul></td>
+  </tr>
+</table>
 
 ### My GitHub Stats
 
