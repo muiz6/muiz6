@@ -64,7 +64,7 @@
     <th>DevOps</th>
     <td><ul><li>Linux</li></ul></td>
     <td><ul><li>NGINX</li></ul></td>
-    <td><ul><li>Supervisor</li></ul></td>
+    <td><ul><li>PM2</li></ul></td>
   </tr>
 </table>
 
