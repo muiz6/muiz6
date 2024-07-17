@@ -4,6 +4,9 @@
 
 ## Full-stack Developer
 
+- I have developed software for the food-delivery, tourism, cybersecurity & healthcare industries.
+- I'm just an email away: [muizhassan83@gmail.com](mailto:muizhassan83@gmail.com)
+
 ### Connect with me
 <div align="left">
   <a href="https://linkedin.com/in/muiz6" target="_blank">
